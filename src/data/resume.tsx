@@ -17,8 +17,7 @@ export const DATA = {
   url: "https://hexedethan.me",
   location: "Anaheim, CA",
   locationLink: "https://www.google.com/maps/place/anaheim+ca",
-  description:
-    "Computer Science/Cybersecurity Student",
+  description: "Computer Science/Cybersecurity Student",
   summary:
     "I'm a computer science student with a passion for building things. I'm always looking for new opportunities to learn and grow.",
   avatarUrl: "/snoopy.jpg",
@@ -35,7 +34,7 @@ export const DATA = {
     skills: { order: 4, enabled: true, heading: "Skills" },
     projects: {
       order: 5,
-      enabled: false,
+      enabled: true,
       label: "My Projects",
       heading: "Check out my latest work",
       text: "I've worked on a variety of projects, from simple websites to complex web applications. Here are a few of my favorites.",
@@ -137,30 +136,15 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Stackwise",
-      href: "https://stackwise.dev",
-      dates: "March 2024 - Present",
+      title: "Bakeologie",
+      href: "https://www.roblox.com/communities/2910718/Bakeologie",
+      dates: "June 2026 - Present",
       active: true,
       description:
-        "Built an AI-powered code review tool that integrates with GitHub PRs and provides context-aware feedback based on your team's codebase conventions. Used by 300+ engineering teams.",
-      technologies: [
-        "Next.js",
-        "TypeScript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "OpenAI API",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://stackwise.dev",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/example-website.webp",
+        "Bakeologie is a Roblox group and community that I founded in 2026. We're currently working on our Bakery game for players to socialize and roleplay in.",
+      technologies: ["Roblox Studio", "Luau"],
+      links: [],
+      image: "/Bakeologie.png",
       video: "",
     },
   ],
