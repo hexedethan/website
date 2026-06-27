@@ -141,7 +141,7 @@ export const DATA = {
       dates: "June 2026 - Present",
       active: true,
       description:
-        "Bakeologie is a Roblox group and community that I founded in 2026. We're currently working on our Bakery game for players to socialize and roleplay in.",
+        "Bakeologie is a Roblox group and community that I founded in 2026. I'm currently working on programming our game.",
       technologies: ["Roblox Studio", "Luau"],
       links: [],
       image: "/Bakeologie.png",
