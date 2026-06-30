@@ -37,7 +37,7 @@ export const DATA = {
       enabled: true,
       label: "My Projects",
       heading: "Check out my latest work",
-      text: "Projects I've built and contributed to.",
+      text: "Projects I've built and contributed to",
     },
     hackathons: {
       order: 7,
